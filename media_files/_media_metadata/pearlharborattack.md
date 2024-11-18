@@ -1,4 +1,4 @@
-
+---
 name: pearlharborattack
 media_type: image
 
@@ -10,3 +10,4 @@ source: Britannica
 
 _path: /media_files/images/pearlharborattack.jpg 
 layout: media_description
+---

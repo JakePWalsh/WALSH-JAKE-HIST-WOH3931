@@ -26,6 +26,8 @@ ASOMF. 2022. “What Happened During the Battle of Corregidor?” January 18, 20
 
 Battle of Midway: Japanese Plans Chapter 5 of the Campaigns of the Pacific War, [website](www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/b/battle-of-midway-japanese-plans-chapter-5-of-the-campaigns-of-the-pacific-war.html.)
 
+"Battle of Okinawa." The National WWII Museum, New Orleans. (1970, May 20). [website](https://www.nationalww2museum.org/war/topics/battle-of-okinawa#:~:text=On%20April%201%2C%201945%2C%20more,anticipated%20invasion%20of%20mainland%20Japan.)
+
 “Chapter 1: The Japanese Offensive in the Pacific.” n.d. [website](https://www.history.army.mil/books/wwii/MacArthur%20Reports/MacArthur%20V1/ch01.htm#:~:text=Flanking%20the%20vital%20sea%20routes,the%20way%20for%20amphibious%20assaults.)
 
 Huber, T. M. (1990). "Japan’s Battle of Okinawa, April-June 1945." Combat Studies Institute, U.S. Army Command and General Staff College.

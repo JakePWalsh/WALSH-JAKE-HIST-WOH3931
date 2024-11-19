@@ -22,3 +22,6 @@ Now analyze your historical subject. (1000 words). You can include images, video
 # Linking to a PDF File
 
 [Download PDF file]({{ site.baseurl }}/media_files/pdfs/newspaper1942.pdf)
+
+[^1]: First example footnote. View other pages to see sample methods of working with Markdown.
+[^2]: I copied this text from this [website](https://www.lipsum.com/feed/html) 

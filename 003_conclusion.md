@@ -6,7 +6,10 @@ number: 3
 
 # Conclusion
 
-While it has been debated since the cessation of hostilities whether World War II actually started in the Asia Pacific with Japan’s repeated campaigns against China, it is undisputed that Japan’s defeat, and that of its imperial ambitions, was formalized on the deck of the USS Missouri on September 2, 1945. 
+While it has been debated since the cessation of hostilities whether World War II actually started in the Asia Pacific with Japan’s repeated campaigns against China, it is undisputed that Japan’s defeat, and that of its imperial ambitions, was formalized on the deck of the USS Missouri on September 2, 1945.
+
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'japansurrenders'" %} 
+{% include media.html pages=media %}
 
 As has been laid out, the moment was a culmination of years of conflict with the Allies, specifically the United States, as best evidenced by three pivotal battles: Japan’s initial invasion of the Philippines, the decisive naval encounter at Midway, and ferocious fighting on Okinawa. 
 

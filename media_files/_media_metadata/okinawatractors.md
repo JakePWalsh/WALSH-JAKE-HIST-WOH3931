@@ -9,7 +9,7 @@ creator: Unknown
 _date: 1945
 source: National WWII Museum
 
-_path: /media_files/images/emperornapoleon.jpg 
+_path: /media_files/images/okinawatractors.jpg 
 layout: media_description
 
 --- 

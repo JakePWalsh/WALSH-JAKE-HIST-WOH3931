@@ -4,18 +4,20 @@ title: Supplements
 number: 4
 ---
 
-# Supplements
-
-Do you have supplementary materials (such as media files) or links for further information for the reader? (minimum 3 additional media files or links)
-
 # Timeline
 
 <iframe class='timeline-iframe' src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=12ZNkEbnN4RnsWLrW2Ekpz2cQV_2QA-3WgJTP4WUKduk&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 # Supplementary Websites
 
-Place your links here to websites that have information about your topic.
+Japan Commemorates 25th Anniversary of World War II
 
-# Supplementary Media Files
+[website](https://www.britishpathe.com/asset/130862/)
 
-Insert videos or images here.
+Pulitzer Prize-Winning Book on Imperial Japan
+
+[website](https://penguinrandomhouselibrary.com/book/?isbn=9780812968583)
+
+Documentary Film of Japan's Involvement in the Second World War - "Supernova in the East"
+
+[website](https://www.dancarlin.com/product/hardcore-history-62-supernova-in-the-east-i/)

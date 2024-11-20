@@ -103,7 +103,7 @@ The results of Okinawa placed the Americans within striking distance of mainland
 [^8]: "Japanese Story of the Battle of Midway," [website](www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/j/japanese-story-of-the-battle-of-midway.html)
 [^9]: Wildenberg, Thomas, Jonathan B. Parshall, Anthony P. Tully, and Alvin B. Kernan. “HOW THE JAPANESE LOST THE BATTLE OF MIDWAY.” Naval War College Review 59, no. 3 (2006) 145–48. [website](http://www.jstor.org/stable/26396752.)
 [^10]: Isom, Dallas Woodbury. “The Battle of Midway: Why the Japanese Lost.” Naval War College Review 53, no. 3 (2000) 60–100. [website](http://www.jstor.org/stable/44638333.)
-[^11}: Huber, T. M. (1990). Japan’s Battle of Okinawa, April-June 1945. Combat Studies Institute, U.S. Army Command and General Staff College.
+[^11]: Huber, T. M. (1990). Japan’s Battle of Okinawa, April-June 1945. Combat Studies Institute, U.S. Army Command and General Staff College.
 [^12]: Huber, T. M. (1990). Japan’s Battle of Okinawa, April-June 1945. Combat Studies Institute, U.S. Army Command and General Staff College.
 [^13]: Huber, T. M. (1990). Japan’s Battle of Okinawa, April-June 1945. Combat Studies Institute, U.S. Army Command and General Staff College.
 [^14]: Headquarters 77th Infantry Division. (2005). Okinawa Operation Report Iceberg, Phase I Part 3. New Jersey, Headquarters 77th Infantry Division. Report of 77th Division operations on Okinawa including task force organization, preliminary planning, training, loading and embarkation, arrival, assault phase, the enemy, results of operation, and comments. Covers from 25 April to 30 June 1945. Originally written in 1945.

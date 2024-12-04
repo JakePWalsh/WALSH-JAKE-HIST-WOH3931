@@ -4,7 +4,7 @@ title: Analysis
 number: 2
 ---
 
-# Analysis - Philippines
+# Analysis - Philippines (Brett Biddle)
 
 The initial Japanese landings in the Philippines occurred on December 8, 1941. The Japanese set for the Philippines with two main goals in mind, they aimed to seize the island for the resources and eliminate General Douglas A. MacArthur’s Far Eastern Air Force[^1]. Both goals were vital to the success of the Japanese conquest of the rest of the Pacific Ocean. The Japanese saw the Philippines as a necessity to conquer as their fear was of American bombardment with their Armies Aircore1 and feared that without the Philippines they could not extract the massive rubber and oil reserves that were needed from the Netherlands East Indies and Malaya to fuel their war effort[^2]. The invasion began on Bataan Island, with forces deployed from Taiwan.
 
@@ -19,7 +19,7 @@ Corregidor Island was the last major Allied stronghold guarding Manila Bay, and 
 
 In early May 1942, Japanese troops began their amphibious landings, facing resistance from the defenders. After fierce fighting and the methodical destruction of Allied positions, the Japanese succeeded in advancing through the island’s defenses. On May 6, under overwhelming pressure and depleted resources, American General Wainwright surrendered, marking a hard-won Japanese victory[^5]. The capture of Corregidor completed the Japanese occupation of the Philippines, securing critical resources and bolstering their defensive perimeter across Southeast Asia.
 
-# Analysis - Midway
+# Analysis - Midway (Aidan Collins)
 
 In the early engagements between the Japanese Imperial Navy (JIN)and the American Navy the Japanese enjoyed a string of victories that left their power unchecked in the Pacific Ocean. After the partly successful neutralization of the American base at Pearl Harbor the IJN planned to make territorial expansions to the south and southeast of Japan and gain valuable resources. Once they were satisfied this expansion ceased. The second phase of Japan’s plan was to establish a defensive perimeter around their new Empire by acquiring the outposts at Midway and the Aleutians. With these outposts established the Japanese would then move on to establish air superiority within a 1,300-mile radius of their new defensive perimeter, which would include the American territory of Hawaii.
 
@@ -48,7 +48,7 @@ The Japanese defeat at Midway marked a turning point in the war in the Pacific. 
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'yorktownhit'" %}
 {% include media.html pages=media %}
 
-# Analysis - Okinawa
+# Analysis - Okinawa (Juan Barahona Trigueros)
 
 GRAND STRATEGY
 

@@ -3,7 +3,7 @@ layout: default
 title: Introduction
 number: 1
 ---
-# Introduction
+# Introduction (Colin Touhy)
 
 Japan’s entrance into the Second World War bred violence, decisive battles, and a crushing, though arguably inevitable, defeat. The forefront variables for their entrance were their own particular imperialistic ambitions and imperative to develop economic productivity and national security. These variables are predicated upon Japan’s rapid industrialization and modernization throughout the 19th century, which elicited a national imperative to expand territory in order to meet economic needs and fulfill nationalistic ambition. 
      

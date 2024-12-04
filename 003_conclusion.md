@@ -4,7 +4,7 @@ title: Conclusion
 number: 3
 ---
 
-# Conclusion
+# Conclusion (Jake Walsh)
 
 While it has been debated since the cessation of hostilities whether World War II actually started in the Asia Pacific with Japan’s repeated campaigns against China, it is undisputed that Japan’s defeat, and that of its imperial ambitions, was formalized on the deck of the USS Missouri on September 2, 1945.
 

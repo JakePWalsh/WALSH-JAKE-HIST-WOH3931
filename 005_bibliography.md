@@ -10,14 +10,15 @@ number: 5
 
 “1941: December 8  to 1942: May 06:  Battle of the Philippines.” n.d. [website](https://www.history.navy.mil/content/history/museums/nmusn/explore/photography/wwii/wwii-pacific/us-entry-into-wwii-japanese-offensive/1941-december-8-1942-may-6-philippines.html.)
 
-Headquarters 77th Infantry Division. (2005). Okinawa Operation Report Iceberg, Phase I Part 3. New Jersey, Headquarters 77th Infantry Division. Report of 77th Division operations on Okinawa including task force organization, preliminary planning, training, loading and embarkation, arrival, assault phase, the enemy, results of operation, and comments. Covers from 25 April to 30 June 1945. (Originally written in 1945).
+"Battle of the Coral Sea - Combat Narratives." United States Department of the Navy. [website](https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/b/battle-of-the-coral-sea-combat-narrative.html)
 
-“Japan Surrenders.” National Archives and Records Administration. [website](https://www.archives.gov/exhibits/featured-documents/japanese-surrender-document.)
+Headquarters 77th Infantry Division. (2005). Okinawa Operation Report Iceberg, Phase I Part 3. New Jersey, Headquarters 77th Infantry Division. Report of 77th Division operations on Okinawa including task force organization, preliminary planning, training, loading and embarkation, arrival, assault phase, the enemy, results of operation, and comments. Covers from 25 April to 30 June 1945. (Originally written in 1945).
 
 “NH 73521 Philippine Invasion, 1941-1942.” n.d. [website](https://www.history.navy.mil/content/history/nhhc/our-collections/photography/numerical-list-of-images/nhhc-series/nh-series/NH-73000/NH-73521.html.)
 
-“United States Note to Japan, November 26, 1941.” Internet History Sourcebooks: Modern History. [website](https://sourcebooks.fordham.edu/mod/1941pearl.asp#a11261941.)
+“Surrender of Japan (1945).” National Archives and Records Administration. [website](https://www.archives.gov/milestone-documents/surrender-of-japan)
 
+“United States Note to Japan, November 26, 1941.” Internet History Sourcebooks: Modern History. [website](https://sourcebooks.fordham.edu/mod/1941pearl.asp#a11261941.)
 
 ## Secondary Sources
 
